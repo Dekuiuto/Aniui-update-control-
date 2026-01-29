@@ -1,5 +1,5 @@
 {
-  "status": "live",
+  "status": "Is live",
   "theme": {
     "name": "VALIT UI",
     "logo": "https://github.com/Dekuiuto/ANI-UI_Themes/raw/refs/heads/main/VALUT%20ui%20icon%20.jpg",
@@ -7,7 +7,7 @@
     "previous_v": "1.2.0"
   },
   "changelog": {
-    "features": "•New animation added \n•New characters are introduced",
+    "features": "• New animation added \n• New characters are introduced",
     "fixes": "• Fixed image Fetching error\n• Fixed animation error"
   },
   "link": "https://t.me/Ani_Ui_in/1219"
