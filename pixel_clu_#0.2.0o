@@ -1,7 +1,7 @@
 {
     "code": "270",
     "data": {
-        "v_code": "200",
+        "v_code": "280",
         "v_version": "0.3.0o",
         "v_msg": "- [New]：3rd lockscreen type prototype released\n- [Fixed]：Corrected aod and clock animation with more smoother animation",
         "remind_code": "0",
