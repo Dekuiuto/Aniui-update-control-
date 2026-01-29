@@ -1,8 +1,8 @@
 {
-    "code": "260",
+    "code": "200",
     "data": {
         "v_code": "260",
-        "v_version": "0.3.0o",
+        "v_version": "0.3.0.o",
         "v_msg": "- [New]：3rd lockscreen type prototype released\n- [Fixed]：Corrected aod and clock animation with more smoother animation",
         "remind_code": "0",
         "remind_msg": "https://t.me/Ani_Ui_in/1219"
