@@ -1,10 +1,14 @@
 {
-    "code": "200",
-    "data": {
-        "v_code": "260",
-        "v_version": "0.3.0.o",
-        "v_msg": "- [New]：3rd lockscreen type prototype released\n- [Fixed]：Corrected aod and clock animation with more smoother animation",
-        "remind_code": "0",
-        "remind_msg": "https://t.me/Ani_Ui_in/1219"
-    }
+  "status": "is live",
+  "theme": {
+    "name": "PIXEL.exp",
+    "logo": "https://github.com/Dekuiuto/ANI-UI_Themes/raw/refs/heads/main/VALUT%20ui%20icon%20.jpg",
+    "current_v": "0.3.0",
+    "previous_v": "0.3.0"
+  },
+  "changelog": {
+    "features": "• New animation added\n• 3rd lockscreen type prototype released",
+    "fixes": "• Fixed image fetching error\n• Corrected aod and clock animation"
+  },
+  "link": "https://t.me/Ani_Ui_in/1219"
 }
